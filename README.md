@@ -1,5 +1,5 @@
 # Foundation for WordPress
-A blank WordPress theme with Foundation CSS
+<a href="https://foundationforwp.com/using-foundation-css-wordpress-theme/">https://foundationforwp.com</a> - A blank WordPress theme with Foundation CSS
 
 ## Details
 This theme will serve as a starting point and is meant for you to add your own custom css to design it further. Placing Foundation CSS directly in a completely blank WordPress theme was the only build process.
